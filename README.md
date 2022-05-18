@@ -21,6 +21,8 @@ Software:
 
 ## SQLite
 
+* SQLite syntax -> [Link](https://www.sqlite.org/lang.html)
+* SQLite Expert database administration -> [Link](https://www.sqliteexpert.com/download.html)
 * Intro by James Powell -> [Link](https://www.youtube.com/watch?v=0UiI2R-pzxQ)
 * What to download -> [Link](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q0000019bzYCAQ&l=pl-PL)
     * SQLite Library
